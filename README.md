@@ -2,4 +2,4 @@
 
 Papers are available through [Moshe Sipper's website](http://www.moshesipper.com/).
 
-* `animated-gifs`: Animated images of evolving art evolved by OMNIREP. 
+* `animated-gifs`: Animated images of art evolved by OMNIREP. 
