@@ -14,7 +14,7 @@ How to run OMNIREP:
 5. For images:    
   a. Create a folder `images`   
   b. Create a subfolder for a particular run, e.g., `images/mypic-run1`     
-  c. Place the original **jpg** image in this folder    
+  c. Place the original **jpg** image in this folder (use pics from `original_target_pics` or your own)   
   d. In the Python model file you’ve selected (e.g, `image_and_polygons.py`) set:      
             `IMAGE_FOLDER = 'images/mypic-run1/' ` (make sure there’s a "/" in the end)    
             `IMAGE_FILE = mypic` (just name, without suffix ".jpg")     
