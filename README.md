@@ -4,7 +4,8 @@ Papers are available through [Moshe Sipper's website](http://www.moshesipper.com
 
 Code accompanying the paper, M. Sipper and J. H. Moore, "OMNIREP: Originating meaning by coevolving encodings and representations", *Memetic Computing*, 2019.
 
-* `animated-gifs`: Animated images of art evolved by OMNIREP. 
+* `animated-gifs`: Animated images of art evolved by OMNIREP.   
+* `original_target_pics`: Original target images for evolutionary art.
 
 How to run OMNIREP:
 1. In `evolve.py` select **one** model import, comment out all the rest, e.g., `import image_and_polygons as modname`     
